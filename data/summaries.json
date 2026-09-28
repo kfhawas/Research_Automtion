@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "url": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "status": "ok",
+    "title": "Artificial Intelligence",
+    "main_idea": "AI is the field of computer science focused on building systems that can perform tasks requiring human-like intelligence, such as learning, reasoning, and problem-solving.",
+    "supporting_points": [
+      "Core goals include learning, reasoning, knowledge representation, planning, NLP, perception, and robotics, pursued via search, optimization, logic, and neural networks.",
+      "Founded as an academic discipline in 1956; went through 'AI winters' of reduced funding before rebounding.",
+      "Deep learning plus GPUs after 2012, transformers after 2017, and generative AI in the 2020s drove the recent AI boom.",
+      "Applications span search engines, chatbots, virtual assistants, autonomous vehicles, strategy games, and content generation.",
+      "Raises ethical concerns around safety, unintended harms, environmental impact, and possible existential risk, prompting calls for regulation."
+    ],
+    "key_takeaways": [
+      "AI has moved from a niche academic field to a technology embedded in everyday tools within about 70 years.",
+      "Its rapid growth is tied to specific technical breakthroughs (GPUs, transformers), not steady linear progress.",
+      "Capability gains are now outpacing agreement on how to govern the technology safely."
+    ]
+  },
+  {
+    "id": 2,
+    "url": "https://en.wikipedia.org/wiki/Climate_change",
+    "status": "ok",
+    "title": "Climate Change",
+    "main_idea": "Human activity, mainly fossil fuel burning, has driven roughly 1.5°C of global warming since the Industrial Revolution, reshaping Earth's climate system.",
+    "supporting_points": [
+      "Burning coal, oil, and gas, plus deforestation and some farming/industrial practices, releases greenhouse gases that trap heat in the atmosphere.",
+      "Atmospheric CO2 is now about 50% higher than pre-industrial levels, the highest in millions of years.",
+      "Effects already visible: more frequent heat waves and wildfires, shrinking glaciers and sea ice, thawing permafrost, and more intense storms and droughts.",
+      "Long-term consequences such as ocean warming, acidification, and sea-level rise will continue for centuries even if warming is halted soon.",
+      "Human impacts include flooding, food and water scarcity, disease, economic loss, and migration; the WHO ranks it among the top health threats of the century."
+    ],
+    "key_takeaways": [
+      "The warming trend is attributed to human activity, not natural variability alone.",
+      "Some damage is already locked in regardless of future action.",
+      "The stakes extend beyond the environment into health, economics, and migration."
+    ]
+  },
+  {
+    "id": 3,
+    "url": "https://en.wikipedia.org/wiki/Remote_work",
+    "status": "ok",
+    "title": "Remote Work",
+    "main_idea": "Remote work, practiced on a small scale for decades, became mainstream after COVID-19 forced a rapid and lasting shift for white-collar jobs worldwide.",
+    "supporting_points": [
+      "Enabled by decades of technology, from 1970s terminal links to modern cloud collaboration and video conferencing.",
+      "Proponents cite lower overhead costs, greater employee autonomy and flexibility, less commuting, and access to a wider talent pool.",
+      "Critics argue it weakens face-to-face collaboration, increases distraction, and can cause isolation.",
+      "Managing distributed teams isn't new; historical organizations relied on trust, record-keeping, and oversight to manage remote operations.",
+      "Historical records, such as the 1911 England and Wales census, already tracked whether people worked 'at home,' showing the practice predates modern technology."
+    ],
+    "key_takeaways": [
+      "The pandemic accelerated, rather than invented, a long-running trend.",
+      "The core debate over flexibility and cost savings versus collaboration and connection isn't new either.",
+      "Effective remote management still comes down to trust and communication systems, not just technology."
+    ]
+  },
+  {
+    "id": 4,
+    "url": "https://en.wikipedia.org/wiki/Spaced_repetition",
+    "status": "ok",
+    "title": "Spaced Repetition",
+    "main_idea": "Spaced repetition is a learning technique that boosts long-term memory by reviewing information at increasing intervals, exploiting the psychological 'spacing effect.'",
+    "supporting_points": [
+      "Commonly used for flashcard-based learning, especially vocabulary acquisition in second-language study.",
+      "Rooted in Hermann Ebbinghaus's 1880s 'forgetting curve,' which showed memory decays over time unless reinforced.",
+      "Landauer and Bjork (1978) confirmed spaced review improves recall using face-name association tests.",
+      "Schacter, Rich, and Stampp (1985) extended the benefit to people with amnesia and other memory disorders.",
+      "Camp (1989) found the technique also helped Alzheimer's patients retain information longer."
+    ],
+    "key_takeaways": [
+      "The technique is backed by over a century of research, not just modern app design.",
+      "It works across a wide range of learners, from language students to memory-impaired patients.",
+      "Spacing out review sessions is more effective than cramming for durable memory."
+    ]
+  },
+  {
+    "id": 5,
+    "url": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "status": "skipped_duplicate",
+    "duplicate_of": 1
+  },
+  {
+    "id": 6,
+    "url": "https://en.wikipedia.org/wiki/Thispagedoesnotexist_TestBrokenLink_12345",
+    "status": "error",
+    "error": "URL_NOT_FOUND"
+  }
+]
