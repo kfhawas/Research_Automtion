@@ -1,0 +1,7 @@
+id,title,url,category,notes
+1,,https://en.wikipedia.org/wiki/Artificial_intelligence,Technology,
+2,,https://en.wikipedia.org/wiki/Climate_change,Environment,
+3,,https://en.wikipedia.org/wiki/Remote_work,Business,
+4,,https://en.wikipedia.org/wiki/Spaced_repetition,Study Skills,
+5,,https://en.wikipedia.org/wiki/Artificial_intelligence,Technology,duplicate of row 1 - tests de-dup logic
+6,,https://en.wikipedia.org/wiki/Thispagedoesnotexist_TestBrokenLink_12345,Technology,broken link - tests error handling
